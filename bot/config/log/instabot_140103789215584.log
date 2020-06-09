@@ -1,0 +1,27 @@
+2020-04-18 11:04:38,456 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 11:04:38,457 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 11:04:42,420 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 11:04:42,446 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 11:04:42,447 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=4a283342-0992-473e-a76c-fcdd3f7cebe6
+- uuid=1eb343dd-2d83-4da6-a60e-24f63a3dd796
+- client_session_id=5ec4aad0-b7c8-47eb-b466-7fdfd98dac70
+- device_id=android-8d90f1a7e493363f
+2020-04-18 11:04:42,447 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 11:04:44,098 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-18 11:04:44,665 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-18 11:04:44,667 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-04-18 11:04:44,667 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/bot/config/photostockin.checkpoint
+2020-04-18 11:04:45,149 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arkadiptab/usernameinfo/ returned response: <Response [200]>
+2020-04-18 11:04:47,072 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/1501185427/info/ returned response: <Response [200]>
+2020-04-18 11:04:47,512 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1501185427/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796 returned response: <Response [200]>
+2020-04-18 11:04:48,000 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1501185427/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFBQjhRLTVhYzNEcU84TVRQS2ZoN3VlNldHUDVIX1E2Ykw3MmthNVNBckkxRnJ2SlQxOU1CYVN0Z0VzelhjalZZX2xRc0Vpc3g1bWpjNnZwMG9zVld1Zw== returned response: <Response [200]>
+2020-04-18 11:04:49,089 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1501185427/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFDRUZkS0x0VExqcmZ2SWJVOXVUMmJFUEgtd3ZCblRVVmk3UUxBeVNlTU84cmhRWWViZ0VLSEpqdFZJa283b0Y0LXhKUGVxRzdNNGVUXzctbFlySzNwMA== returned response: <Response [200]>
+2020-04-18 11:04:49,533 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1501185427/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFDN0dQeHdmMzRhMXpJMjlNX3hYY1lnQXBDYTg3ZmxtNV82dTNyak8xQm1NTTlxVUx3NGdYRWVsZTlvbHhwdFh4OHY0NGFGNFNFZ3VycUVaZl9WdmpMOA== returned response: <Response [200]>
+2020-04-18 11:04:50,306 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1501185427/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFCNmhONE42WE5Gc3d2Z29PZzNnNHVRVi1KRDQzNkdxaE05TkNUbFhNdnUxbW5KUzctOEtFMWFTMFVxWkpRbDFwZUdlNDI1aVA1Z09HYWdiWGh6NzVoQw== returned response: <Response [200]>
+2020-04-18 11:04:51,334 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1501185427/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFDWHRkQml0UkluZXJoMk82TzVGaGtlcm9GSnZHYWRySVJvT3FYYmtvdk1IR1JNa2Q5WFZ4OVRrcGFuSGhIeVoxc1hpOURzNGpFMmtqOU5KNjlBaURzZg== returned response: <Response [200]>
+2020-04-18 11:04:53,087 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1501185427/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFBWHBWcGFNOTB3WWpqTG55VVZ2VExVeUtiQ2owVEdORnpqNVVuQnZ0ZE9JWEw0MXl2bURyNWhSLUpIa0F0MXdDQXNXUXBsWk5KRWtyOVRTckI3NlNjMQ== returned response: <Response [200]>
+2020-04-18 11:04:53,505 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1501185427/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFDOExaRFFiZXVxMFFCdGtsVkZmWG5zazViRjlnN0pKQmNNcVRGNlNlZE80RjVwTUlVbDAwSXVqck9OX1FxOWVYVWQ0NFRvb1VkdjBSZF96SnlwQWp6bQ== returned response: <Response [200]>
+2020-04-18 11:04:53,508 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/config/photostockin.checkpoint
+2020-04-18 11:04:53,508 - instabot version: 0.117.0 (bot) - INFO - Total requests: 67

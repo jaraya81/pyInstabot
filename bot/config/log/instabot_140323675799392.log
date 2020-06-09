@@ -1,0 +1,26 @@
+2020-04-18 11:07:13,440 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 11:07:13,440 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 11:07:17,166 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 11:07:17,166 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 11:07:17,167 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=4a283342-0992-473e-a76c-fcdd3f7cebe6
+- uuid=1eb343dd-2d83-4da6-a60e-24f63a3dd796
+- client_session_id=5ec4aad0-b7c8-47eb-b466-7fdfd98dac70
+- device_id=android-8d90f1a7e493363f
+2020-04-18 11:07:17,167 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 11:07:18,699 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-18 11:07:19,294 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-18 11:07:19,296 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-04-18 11:07:19,296 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/bot/config/photostockin.checkpoint
+2020-04-18 11:07:20,713 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/singhmohini/usernameinfo/ returned response: <Response [200]>
+2020-04-18 11:07:22,662 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/1170180389/info/ returned response: <Response [200]>
+2020-04-18 11:07:23,721 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1170180389/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796 returned response: <Response [200]>
+2020-04-18 11:07:24,713 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1170180389/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFBZHJhZWpfTHlKMUFrS0hGamV1dEdqbUdfZFMwNnVnYm5GTC1HaGRacFNiVkliNWpGcERMelFkalhjaDNPeTlucXV1WUl4RnpSQlF5LWlmbGhSM1dhXw== returned response: <Response [200]>
+2020-04-18 11:07:25,706 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1170180389/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFCSHBhaDJNakNETTRfVU5zb09aUnZrWFc4eVdIMzNBcDlJeEN2WGdCR05HZTZNZjk0dUJsZ3c1NnNpSUpiT21lZ0NaNy03dnZYNFd5aG5WOVlFU1lfQw== returned response: <Response [200]>
+2020-04-18 11:07:26,151 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1170180389/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFDTGFVdFRSNTRfQmlXVzJLbC1FdUt0R1lqN0JUWGIzYUtKMHVlaTg2cVFadFBfeXRfdmxGU2RCTURRZzlaaWlkV00yZTJxYU9tV1lySzdNcVItcG54UA== returned response: <Response [200]>
+2020-04-18 11:07:27,738 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1170180389/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFCNkI3aXFWY0J2SEhNVmh3VGcxLVc2RkFNZl84QVQ5aFdfTFl3YThaekgtUFYyYXdhN2R4SDdtcHFsYnFEUjBzTEhUNVhhOERFdDktRWNYamVlbC04Ng== returned response: <Response [200]>
+2020-04-18 11:07:28,200 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1170180389/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFBX1JvcHItSFdUQTI1MDU5WS04UlpwWGplcDctU24tQXVHTUN6R1oweHA0enFkeHdBMmIzXzFIcXl6eXptNHF3ZW9ZS3NzbUN0bXlYUjQzcGxjeVBrVg== returned response: <Response [200]>
+2020-04-18 11:07:29,702 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/1170180389/followers/?rank_token=27776086740_1eb343dd-2d83-4da6-a60e-24f63a3dd796&max_id=QVFBRk5mOVlZaWZobHNkVHNKY3JqVnItR3BGcW5kOXlneHVvYjdKUUZZdmN6M3JiZjJmQUdaV1NmU3M4b0hRc1JhTm9ZNUwwU2RkQklyZGUzMkN5a0xMag== returned response: <Response [200]>
+2020-04-18 11:07:29,705 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/config/photostockin.checkpoint
+2020-04-18 11:07:29,706 - instabot version: 0.117.0 (bot) - INFO - Total requests: 76

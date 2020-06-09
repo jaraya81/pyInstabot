@@ -1,0 +1,20 @@
+2020-04-20 20:57:53,355 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-20 20:57:53,356 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-20 20:57:53,357 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-20 20:57:53,357 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-20 20:57:53,357 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/photos/config/punny.sideup_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=34394160-9b88-4d4b-a10f-41c06506bff3
+- uuid=fdd0abc0-2414-419d-8a9e-d8b5794bcf37
+- client_session_id=84d5ac6e-1c8d-4098-afe1-cf61a3778431
+- device_id=android-29d513feaffc734f
+2020-04-20 20:57:53,357 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-20 20:57:55,056 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-20 20:57:56,428 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-20 20:57:56,430 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'punny.sideup'!
+2020-04-20 20:57:56,431 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/photos/config/punny.sideup.checkpoint
+2020-04-20 20:58:17,980 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-04-20 20:58:18,423 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-04-20 20:58:18,424 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/home/soumya/Desktop/Python_Insta_botting/photos/0420_05.jpg' is uploaded.
+2020-04-20 20:58:33,913 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/photos/config/punny.sideup.checkpoint
+2020-04-20 20:58:33,915 - instabot version: 0.117.0 (bot) - INFO - Total requests: 35

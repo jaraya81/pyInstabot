@@ -1,0 +1,181 @@
+2020-04-18 13:49:53,008 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 13:49:53,009 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 13:49:53,010 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 13:49:53,010 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 13:49:53,011 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=e847c49e-3a5c-4be3-8766-5ac0127d46d5
+- uuid=3427bb80-d31d-473c-aaf6-760da71fb539
+- client_session_id=cc9bbb95-0eca-4f97-9c38-1d1e8f6e0914
+- device_id=android-8d90f1a7e493363f
+2020-04-18 13:49:53,011 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 13:49:55,017 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-18 13:49:55,509 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-18 13:49:55,511 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-04-18 13:49:55,512 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 13:50:18,999 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-04-18 13:50:20,948 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-04-18 13:50:20,949 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/home/soumya/Desktop/Python_Insta_botting/bot/profiles/travelsticlife/prod_ready/2018-05-30_14-26-07_UTC.jpg' is uploaded.
+2020-04-18 13:51:21,010 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 13:51:21,011 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 13:51:21,012 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 13:51:21,013 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 13:51:21,013 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=e847c49e-3a5c-4be3-8766-5ac0127d46d5
+- uuid=3427bb80-d31d-473c-aaf6-760da71fb539
+- client_session_id=cc9bbb95-0eca-4f97-9c38-1d1e8f6e0914
+- device_id=android-8d90f1a7e493363f
+2020-04-18 13:51:21,014 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 13:51:23,011 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-18 13:51:23,524 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-18 13:51:23,527 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-04-18 13:51:23,527 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 13:51:45,127 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-04-18 13:51:46,970 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-04-18 13:51:46,970 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/home/soumya/Desktop/Python_Insta_botting/bot/profiles/travelsticlife/prod_ready/2018-06-12_08-06-30_UTC.jpg' is uploaded.
+2020-04-18 13:52:47,028 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 13:52:47,029 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 13:52:47,030 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 13:52:47,031 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 13:52:47,031 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=e847c49e-3a5c-4be3-8766-5ac0127d46d5
+- uuid=3427bb80-d31d-473c-aaf6-760da71fb539
+- client_session_id=cc9bbb95-0eca-4f97-9c38-1d1e8f6e0914
+- device_id=android-8d90f1a7e493363f
+2020-04-18 13:52:47,032 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 13:52:48,960 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-18 13:52:49,532 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-18 13:52:49,534 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-04-18 13:52:49,535 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 13:53:12,984 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-04-18 13:53:14,964 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-04-18 13:53:14,965 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/home/soumya/Desktop/Python_Insta_botting/bot/profiles/travelsticlife/prod_ready/2018-04-23_15-33-37_UTC.jpg' is uploaded.
+2020-04-18 13:54:15,020 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 13:54:15,021 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 13:54:15,022 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 13:54:15,023 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 13:54:15,024 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=e847c49e-3a5c-4be3-8766-5ac0127d46d5
+- uuid=3427bb80-d31d-473c-aaf6-760da71fb539
+- client_session_id=cc9bbb95-0eca-4f97-9c38-1d1e8f6e0914
+- device_id=android-8d90f1a7e493363f
+2020-04-18 13:54:15,024 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 13:54:16,985 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-18 13:54:17,567 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-18 13:54:17,569 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-04-18 13:54:17,570 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 13:54:20,808 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-04-18 13:54:20,809 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/home/soumya/Desktop/Python_Insta_botting/bot/profiles/travelsticlife/prod_ready/2018-04-27_14-45-10_UTC.jpg' is not uploaded.
+2020-04-18 13:55:20,868 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 13:55:20,869 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 13:55:20,870 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 13:55:20,871 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 13:55:20,872 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=e847c49e-3a5c-4be3-8766-5ac0127d46d5
+- uuid=3427bb80-d31d-473c-aaf6-760da71fb539
+- client_session_id=cc9bbb95-0eca-4f97-9c38-1d1e8f6e0914
+- device_id=android-8d90f1a7e493363f
+2020-04-18 13:55:20,873 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 13:55:21,983 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-18 13:55:22,481 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-18 13:55:22,483 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-04-18 13:55:22,484 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 13:55:44,341 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-04-18 13:55:45,843 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-04-18 13:55:45,844 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/home/soumya/Desktop/Python_Insta_botting/bot/profiles/travelsticlife/prod_ready/2018-05-08_15-18-10_UTC.jpg' is uploaded.
+2020-04-18 13:56:45,859 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 13:56:45,860 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 13:56:45,861 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 13:56:45,862 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 13:56:45,863 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=e847c49e-3a5c-4be3-8766-5ac0127d46d5
+- uuid=3427bb80-d31d-473c-aaf6-760da71fb539
+- client_session_id=cc9bbb95-0eca-4f97-9c38-1d1e8f6e0914
+- device_id=android-8d90f1a7e493363f
+2020-04-18 13:56:45,864 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 13:56:46,970 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-18 13:56:47,981 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-18 13:56:47,983 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-04-18 13:56:47,984 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 13:57:08,952 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-04-18 13:57:09,327 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-04-18 13:57:09,328 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/home/soumya/Desktop/Python_Insta_botting/bot/profiles/travelsticlife/prod_ready/2018-06-17_14-32-52_UTC.jpg' is uploaded.
+2020-04-18 13:58:09,343 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 13:58:09,344 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 13:58:09,346 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 13:58:09,347 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 13:58:09,347 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=e847c49e-3a5c-4be3-8766-5ac0127d46d5
+- uuid=3427bb80-d31d-473c-aaf6-760da71fb539
+- client_session_id=cc9bbb95-0eca-4f97-9c38-1d1e8f6e0914
+- device_id=android-8d90f1a7e493363f
+2020-04-18 13:58:09,349 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 13:58:10,966 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-18 13:58:11,467 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-18 13:58:11,469 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-04-18 13:58:11,470 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 13:58:32,980 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-04-18 13:58:33,357 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-04-18 13:58:33,358 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/home/soumya/Desktop/Python_Insta_botting/bot/profiles/travelsticlife/prod_ready/2018-04-09_15-25-02_UTC.jpg' is uploaded.
+2020-04-18 13:59:33,375 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 13:59:33,377 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 13:59:33,378 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 13:59:33,379 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 13:59:33,380 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=e847c49e-3a5c-4be3-8766-5ac0127d46d5
+- uuid=3427bb80-d31d-473c-aaf6-760da71fb539
+- client_session_id=cc9bbb95-0eca-4f97-9c38-1d1e8f6e0914
+- device_id=android-8d90f1a7e493363f
+2020-04-18 13:59:33,381 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 13:59:34,934 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-18 13:59:35,988 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-18 13:59:35,991 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-04-18 13:59:35,993 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 13:59:56,949 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-04-18 13:59:57,336 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-04-18 13:59:57,336 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/home/soumya/Desktop/Python_Insta_botting/bot/profiles/travelsticlife/prod_ready/2018-07-02_13-16-13_UTC.jpg' is uploaded.
+2020-04-18 14:00:57,392 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 14:00:57,394 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 14:00:57,395 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 14:00:57,396 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 14:00:57,397 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=e847c49e-3a5c-4be3-8766-5ac0127d46d5
+- uuid=3427bb80-d31d-473c-aaf6-760da71fb539
+- client_session_id=cc9bbb95-0eca-4f97-9c38-1d1e8f6e0914
+- device_id=android-8d90f1a7e493363f
+2020-04-18 14:00:57,398 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 14:00:58,968 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-18 14:00:59,990 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-18 14:00:59,993 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-04-18 14:00:59,994 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 14:01:21,940 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-04-18 14:01:22,326 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-04-18 14:01:22,328 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '/home/soumya/Desktop/Python_Insta_botting/bot/profiles/travelsticlife/prod_ready/2018-05-25_06-35-42_UTC.jpg' is uploaded.
+2020-04-18 14:01:58,907 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 14:01:58,909 - instabot version: 0.117.0 (bot) - INFO - Total requests: 43
+2020-04-18 14:01:58,910 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 14:01:58,911 - instabot version: 0.117.0 (bot) - INFO - Total requests: 43
+2020-04-18 14:01:58,912 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 14:01:58,913 - instabot version: 0.117.0 (bot) - INFO - Total requests: 43
+2020-04-18 14:01:58,914 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 14:01:58,915 - instabot version: 0.117.0 (bot) - INFO - Total requests: 43
+2020-04-18 14:01:58,916 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 14:01:58,917 - instabot version: 0.117.0 (bot) - INFO - Total requests: 43
+2020-04-18 14:01:58,918 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 14:01:58,919 - instabot version: 0.117.0 (bot) - INFO - Total requests: 41
+2020-04-18 14:01:58,920 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 14:01:58,920 - instabot version: 0.117.0 (bot) - INFO - Total requests: 43
+2020-04-18 14:01:58,922 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 14:01:58,922 - instabot version: 0.117.0 (bot) - INFO - Total requests: 43
+2020-04-18 14:01:58,924 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 14:01:58,925 - instabot version: 0.117.0 (bot) - INFO - Total requests: 43
+2020-04-18 14:01:58,926 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin.checkpoint
+2020-04-18 14:01:58,926 - instabot version: 0.117.0 (bot) - INFO - Total requests: 43

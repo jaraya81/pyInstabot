@@ -1,0 +1,13 @@
+2020-04-18 13:42:32,604 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-18 13:42:32,604 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/soumya/.local/lib/python3.6/site-packages/instabot/bot/bot.py
+2020-04-18 13:42:32,605 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-04-18 13:42:32,606 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-04-18 13:42:32,606 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python_Insta_botting/bot/profiles/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=e847c49e-3a5c-4be3-8766-5ac0127d46d5
+- uuid=3427bb80-d31d-473c-aaf6-760da71fb539
+- client_session_id=a3bdf3da-d4a5-43e5-a1e5-6fda3f465751
+- device_id=android-8d90f1a7e493363f
+2020-04-18 13:42:32,606 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-04-18 13:42:42,672 - instabot version: 0.117.0 (api) - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/feed/timeline/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5cb5c75c88>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+2020-04-18 13:42:52,691 - instabot version: 0.117.0 (api) - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/feed/reels_tray/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5cb5c66be0>: Failed to establish a new connection: [Errno -2] Name or service not known',))

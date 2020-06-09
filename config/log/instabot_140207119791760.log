@@ -1,0 +1,149 @@
+2020-03-06 01:50:36,395 - instabot version: 0.112.0 (bot) - INFO - Instabot version: 0.112.0 Started
+2020-03-06 01:50:36,395 - instabot version: 0.112.0 (bot) - DEBUG - Bot imported from /usr/local/lib/python2.7/dist-packages/instabot/bot/bot.pyc
+2020-03-06 01:50:40,231 - instabot version: 0.112.0 (api_login) - DEBUG - Loading cookies
+2020-03-06 01:50:40,232 - instabot version: 0.112.0 (api_login) - DEBUG - Loading uuids
+2020-03-06 01:50:40,232 - instabot version: 0.112.0 (api_login) - INFO - Recovery from /home/soumya/Desktop/Python Insta botting/config/photostockin_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=34c95a7e-d10b-468e-8fc3-b87019825f1e
+- uuid=cea63fcb-145a-4772-8516-a3396fe3d3d5
+- client_session_id=f65ffb1b-ab68-4866-8dd1-da2d354ac37c
+- device_id=android-8d90f1a7e493363f
+2020-03-06 01:50:40,232 - instabot version: 0.112.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-03-06 01:50:42,011 - instabot version: 0.112.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-03-06 01:50:42,632 - instabot version: 0.112.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-03-06 01:50:44,018 - instabot version: 0.112.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-03-06 01:50:44,978 - instabot version: 0.112.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-03-06 01:50:45,670 - instabot version: 0.112.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-03-06 01:50:46,994 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-03-06 01:50:48,026 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-03-06 01:50:48,978 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-03-06 01:50:51,991 - instabot version: 0.112.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-03-06 01:50:51,998 - instabot version: 0.112.0 (api) - INFO - Logged-in successfully as 'photostockin'!
+2020-03-06 01:50:51,998 - instabot version: 0.112.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/soumya/Desktop/Python Insta botting/config/photostockin.checkpoint
+2020-03-06 01:50:52,982 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: users/photostockin/usernameinfo/ returned response: <Response [200]>
+2020-03-06 01:50:55,000 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: feed/user/27776086740/?max_id=&min_timestamp=None&rank_token=27776086740_cea63fcb-145a-4772-8516-a3396fe3d3d5&ranked_content=true returned response: <Response [200]>
+2020-03-06 01:50:55,633 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: feed/user/27776086740/?max_id=2248517494769893439_27776086740&min_timestamp=None&rank_token=27776086740_cea63fcb-145a-4772-8516-a3396fe3d3d5&ranked_content=true returned response: <Response [200]>
+2020-03-06 01:50:56,981 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: feed/user/27776086740/?max_id=2244486831559619524_27776086740&min_timestamp=None&rank_token=27776086740_cea63fcb-145a-4772-8516-a3396fe3d3d5&ranked_content=true returned response: <Response [200]>
+2020-03-06 01:50:57,654 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: feed/user/27776086740/?max_id=2242450890233955686_27776086740&min_timestamp=None&rank_token=27776086740_cea63fcb-145a-4772-8516-a3396fe3d3d5&ranked_content=true returned response: <Response [200]>
+2020-03-06 01:50:59,001 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: feed/user/27776086740/?max_id=2241590324657204661_27776086740&min_timestamp=None&rank_token=27776086740_cea63fcb-145a-4772-8516-a3396fe3d3d5&ranked_content=true returned response: <Response [200]>
+2020-03-06 01:50:59,651 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: feed/user/27776086740/?max_id=2240452316272890066_27776086740&min_timestamp=None&rank_token=27776086740_cea63fcb-145a-4772-8516-a3396fe3d3d5&ranked_content=true returned response: <Response [200]>
+2020-03-06 01:51:00,982 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: feed/user/27776086740/?max_id=2239304750361665109_27776086740&min_timestamp=None&rank_token=27776086740_cea63fcb-145a-4772-8516-a3396fe3d3d5&ranked_content=true returned response: <Response [200]>
+2020-03-06 01:51:00,987 - instabot version: 0.112.0 (bot_photo) - INFO - Going to download 114 medias.
+2020-03-06 01:51:05,972 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2256820007415673435_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:51:19,000 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250428799156206614_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:51:33,969 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250420937184888598_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:51:47,334 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250413119631308607_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:51:59,148 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250405297866782050_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:52:12,023 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250397451674616691_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:52:26,005 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250389633173107160_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:52:39,364 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250381800125854685_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:52:52,979 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250373982983510593_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:53:06,996 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250366157897055203_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:53:18,324 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250358308013835277_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:53:31,988 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250322105759545388_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:53:47,406 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250314275572841821_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:54:01,426 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250306440478832121_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:54:13,378 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250298633310398144_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:54:25,993 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2250290808173431545_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:54:38,284 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248525325417843768_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:54:50,113 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248517494769893439_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:55:04,541 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248509671495182198_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:55:17,386 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248501847348271360_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:55:29,393 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248494000828900640_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:55:41,003 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248184579523369462_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:55:56,392 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248176730554507894_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:56:11,398 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248168899730243011_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:56:24,190 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248161058025965319_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:56:36,120 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248153113896846717_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:56:51,401 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248147124455903263_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:57:05,996 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248096319405270512_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:57:19,400 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248095526211967471_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:57:32,424 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248094752983628439_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:57:46,412 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248093964496442400_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:57:59,371 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2248093164239911426_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:58:14,412 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2244830882003472838_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:58:27,404 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2244827979788515176_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:58:40,715 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2244521380008030412_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:58:55,402 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2244486831559619524_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:59:08,362 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2244456387707158549_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:59:21,192 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2244425929342633266_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:59:35,402 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2244395467672919528_27776086740/info/ returned response: <Response [200]>
+2020-03-06 01:59:49,426 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2243921960245774007_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:00:03,607 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2243891496898354065_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:00:16,822 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2243861029667195000_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:00:31,832 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2243830569381596317_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:00:44,826 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2243800099373524840_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:00:57,816 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2243769607915970428_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:01:09,847 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2243739145206068189_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:01:22,806 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2243708687227470009_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:01:35,856 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2243678223410331442_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:01:48,448 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242620006005520150_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:02:02,841 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242586195947665809_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:02:15,834 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242552373373758754_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:02:30,840 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242518529442341434_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:02:45,814 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242484726565155397_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:02:58,848 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242450890233955686_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:03:12,840 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242417049144242909_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:03:25,828 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242383186080764477_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:03:39,805 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242349372834990056_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:03:52,860 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242315540855485767_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:04:06,809 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242281722083551529_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:04:21,848 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2242247925531209421_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:04:35,834 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241903929739156379_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:04:49,816 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241870130745676510_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:05:02,811 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241836317978067373_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:05:15,864 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241802503885088883_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:05:29,849 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241768702156977747_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:05:44,855 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241734867293686901_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:05:58,842 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241701059978686848_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:06:12,824 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241667233185330739_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:06:27,830 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241642734312250187_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:06:41,851 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241637731768116098_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:06:55,798 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241592993769614160_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:07:08,823 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241590324657204661_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:07:23,862 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241572631011123509_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:07:36,857 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2241372096119012916_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:07:49,819 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240935527608409386_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:08:02,851 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240905399008329276_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:08:16,858 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240875153882274682_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:08:31,800 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240845048829085655_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:08:44,824 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240814793670107719_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:08:57,850 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240754327543398320_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:09:10,839 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240724113924862248_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:09:23,224 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240693907403067200_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:09:36,825 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240663704958148277_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:09:51,864 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240633530883532370_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:10:05,964 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240603307056203326_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:10:20,842 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240573115348601532_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:10:33,817 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240542915185445253_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:10:47,832 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240512713537410153_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:11:01,818 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240482517199425447_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:11:15,865 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240452316272890066_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:11:28,824 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240422182388098964_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:11:41,848 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240391913438269538_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:11:53,850 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240361766559441679_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:12:05,853 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240331537413672755_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:13:08,750 - instabot version: 0.112.0 (api) - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/media/2240301306028195651_27776086740/info/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f8482524090>: Failed to establish a new connection: [Errno 113] No route to host',))
+2020-03-06 02:13:18,771 - instabot version: 0.112.0 (bot_photo) - INFO - Media with `2240301306028195651_27776086740` is not downloaded.
+2020-03-06 02:13:32,677 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240271184944270592_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:13:45,634 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240240881794273395_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:14:31,734 - instabot version: 0.112.0 (api) - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/media/2240226486305215848_27776086740/info/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f8481a6ec50>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
+2020-03-06 02:14:41,754 - instabot version: 0.112.0 (bot_photo) - INFO - Media with `2240226486305215848_27776086740` is not downloaded.
+2020-03-06 02:14:55,218 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240187549197103567_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:15:09,633 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240184944123427825_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:15:22,625 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240182561490135828_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:15:39,220 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2240158005786441500_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:15:53,665 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2239921370326985314_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:16:05,356 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2239878613726149135_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:16:19,646 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2239785940873109761_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:16:33,632 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2239496923682165011_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:16:48,673 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2239366352624545077_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:17:01,635 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2239304750361665109_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:17:17,258 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2239273777372664095_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:17:32,612 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2239137129934820613_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:17:45,663 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2239083912823645429_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:17:58,624 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2238741157949852952_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:18:11,646 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2238739351379341985_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:18:24,639 - instabot version: 0.112.0 (api) - DEBUG - GET to endpoint: media/2238720326813092851_27776086740/info/ returned response: <Response [200]>
+2020-03-06 02:18:34,710 - instabot version: 0.112.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/soumya/Desktop/Python Insta botting/config/photostockin.checkpoint
+2020-03-06 02:18:34,712 - instabot version: 0.112.0 (bot) - INFO - Total requests: 173

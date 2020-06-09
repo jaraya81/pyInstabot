@@ -1,0 +1,10 @@
+3 7 * * * cd /home/ubuntu/bot_psu && /usr/bin/python3.6 main_app.py >> log.out
+7 8 * * * cd /home/ubuntu/bot_psu && /usr/bin/python3.6 main_app.py >> log.out
+56 8 * * * cd /home/ubuntu/bot_psu && /usr/bin/python3.6 main_app.py >> log.out
+36 9 * * * cd /home/ubuntu/bot_psu && /usr/bin/python3.6 main_app.py >> log.out
+18 10 * * * cd /home/ubuntu/bot_psu && /usr/bin/python3.6 main_app.py >> log.out
+13 17 * * * cd /home/ubuntu/bot_psu && /usr/bin/python3.6 main_app.py >> log.out
+3 18 * * * cd /home/ubuntu/bot_psu && /usr/bin/python3.6 main_app.py >> log.out
+2 19 * * * cd /home/ubuntu/bot_psu && /usr/bin/python3.6 main_app.py >> log.out
+43 20 * * * cd /home/ubuntu/bot_psu && /usr/bin/python3.6 main_app.py >> log.out
+
