@@ -60,7 +60,7 @@ for i in myjpgFiles:
     photopath=path+str(i)
     if str(i) not in str_track:
         bot = instabot.Bot(filter_private_users=False)
-        bot.login(username = "punny.sideup", password = "Mar@2020")
+        bot.login(username = "punny.sideup", password = "a_password")
         print(captiontext)
         bot.upload_photo(photopath,caption=captiontext)
         tracking.write(str(i)+"\n")
